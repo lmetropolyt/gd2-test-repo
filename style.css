@@ -1,0 +1,61 @@
+
+@font-face{
+	font-family:Lineal;
+	src:url(fonts/Lineal-Bold.woff);
+}
+
+@font-face{
+	font-family:Lineal;
+	src:url(fonts/Lineal-Thin.woff);
+	font-weight:thin;
+}
+
+body{
+	background:rgba(0, 0, 255, 1.0);
+	color:rgba(255, 255, 255, 1.0);
+	margin:50px;
+}
+
+
+p{
+			font-family:monospace;
+}
+
+#History{
+	font-size: 50px;
+	font-family:Lineal;
+	font-weight:bold;
+}
+
+#ocad{
+	color: rgba(255, 69, 0, 1.0);
+	font-family:Lineal;
+	font-weight: thin;
+}
+
+.first-paragraph{
+	color:rgba(255, 69, 0, 1.0);
+	width:500px;
+}
+
+
+a{
+			color:orangered;
+}
+
+#nav{
+			background:slateblue;
+			width:150px;
+			margin:50px;
+			padding:30px;
+			color:orangered;
+			font-family:monospace;
+			height:50px;
+			border:dashed white 1pt;
+}
+
+		#nav a{
+			color:orangered;
+}
+
+
